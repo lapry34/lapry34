@@ -3,7 +3,7 @@
 - 👨‍💻 I'm Gabriele Onorato, 18yro, Software Developer
 - 👀 I’m interested in Data Science and Cybersecurity
 - 💻 I'm confident with C++, Java, Python, SQL and Javascript 👾
-- 🌱 I’m currently learning Calculus and Algebra 😰
+- 🌱 I’m currently learning Calculus and Linear Algebra 😰
 - 📫 Check out my [Portfolio](http://www.gabrieleonorato.it/) and my [Resume](https://resume.io/app/resumes/16371710/edit)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapry34&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
