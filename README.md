@@ -1,6 +1,6 @@
 ##  ![👋 Hello There](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47hu61zzfborb7na72mfsan42ytjqknwajhg4hegne&rid=giphy.gif)
 
-- 👨‍💻 I'm Gabriele Onorato, 18yro, Software Developer
+- 👨‍💻 I'm Gabriele Onorato, 20yro, Software Developer
 - 👀 I’m interested in Data Science and Cybersecurity
 - 💻 I'm confident with C++, Java, Python, SQL and Javascript 👾
 - 🌱 I’m currently learning Physics and Probability 😰
