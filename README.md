@@ -3,7 +3,7 @@
 - 👨‍💻 I'm Gabriele Onorato, 20yro, Software Developer
 - 👀 I’m interested in Data Science and Cybersecurity
 - 💻 I'm confident with C++, Java, Python, SQL and Javascript 👾
-- 🌱 I’m currently learning Physics and Probability 😰
+- 🌱 I’m currently learning Dynamic Systems and Nonlinear Programming 😰
 - 📊 Linear Algebra Specialist
 - 📫 Check out my [Portfolio](http://www.gabrieleonorato.it/) and my [Resume](https://resume.io/app/resumes/16371710/edit)!
 
