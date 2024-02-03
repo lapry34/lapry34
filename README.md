@@ -1,10 +1,9 @@
 ##  ![👋 Hello There](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47hu61zzfborb7na72mfsan42ytjqknwajhg4hegne&rid=giphy.gif)
 
-- 👨‍💻 I'm Gabriele Onorato, 21yro, Software Engineer
+- 👨‍💻 I'm Gabriele Onorato, 21yro, Computer Engineer
 - 👀 I’m interested in AI and Algorithms
 - 💻 I'm confident with C/C++, Java, Python, SQL and Javascript 👾
 - 🌱 I’m currently learning Machine Learning and Bayesian Optimization 😰
-- 📊 Linear Algebra Specialist
 - 📫 Check out my [Portfolio](http://www.gabrieleonorato.it/) and my [Resume](https://resume.io/app/resumes/16371710/edit)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapry34&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
