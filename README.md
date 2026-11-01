@@ -4,7 +4,7 @@
 - 👀 I’m interested in Resilient and Explainable Machine Learning
 - 💻 I'm confident with Python, C/C++, Java, SQL and Javascript 👾
 - 🌱 I’m currently learning Reinforcement Learning  😰
-- 📫 Check out my [Website](http://www.gabrieleonorato.it/) and my [Resume](https://resume.io/r/QLMRZr97Y)!
+- 📫 Check out my [Website](https://www.gabrieleonorato.com/) and my [CV](https://www.gabrieleonorato.com/files/Gabriele_Onorato_CV.pdf)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapry34&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
